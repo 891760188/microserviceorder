@@ -1,0 +1,8 @@
+server:
+  port: 8082 #服务端口-订单服务
+
+common:
+  constant:
+    itemip: 127.0.0.1
+    itemport: 8081
+    queryItemByIdUri: item
